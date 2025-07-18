@@ -1,0 +1,26 @@
+
+body{
+
+background-image: url(gambar/ii.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+h1 {
+    color: palevioletred;
+    font-size: 100px;
+    text-decoration: none;
+    text-transform:lowercase;
+}
+h2{color: palevioletred;}
+p {
+    color:green;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+h3{
+    color: palevioletred;}
+}
